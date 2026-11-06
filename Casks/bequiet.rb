@@ -1,6 +1,6 @@
 cask "bequiet" do
-  version "0.1.1"
-  sha256 "075e7d1fd255fcd1e4614f79d1b362a4203c042deeeea01713528958e1fe813b"
+  version "0.1.2"
+  sha256 "e5a139a08e8ac01cc1f3252ce38721a5d38dd9f96f1c6f3c9efe66bfab6b6415"
 
   url "https://github.com/petrnymsa/be_quiet/releases/download/v#{version}/BeQuiet-#{version}.zip"
   name "BeQuiet"
